@@ -1,0 +1,12 @@
+<schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema">
+    <element name="Evento">
+        <complexType>
+            <all>
+                <element type="string" name="tag" minOccurs="1" maxOccurs="1" />
+                <element type="string" name="clientIP"/>
+                <element type="string" name="timestamp"/>
+            </all>
+            <attribute type="string" name="nomeApp" use="required" />
+        </complexType>
+    </element>
+</schema>

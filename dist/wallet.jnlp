@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="wallet.jnlp">
+  <information>
+    <title>wallet</title>
+    <vendor>thewa</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\mysql-connector-java-5.1.23-bin.jar" size="834126" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.34-bin.jar" size="960374" download="eager" />
+    <jar href="lib\xmlpull-1.1.3.1.jar" size="7188" download="eager" />
+    <jar href="lib\xpp3_min-1.1.4c.jar" size="24956" download="eager" />
+    <jar href="lib\xstream-1.4.7.jar" size="531571" download="eager" />
+    <jar href="wallet.jar" size="25467" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="wallet" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="frontend.AvvioWallet"  name="wallet" />
+  <update check="always"/>
+</jnlp>

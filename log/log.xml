@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820401361</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518365140278</timestamp>
+</Evento>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518365668589</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518365721601</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518365896241</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518384279719</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518385392238</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518385451581</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618640040</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618760056</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618777802</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618885824</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618901420</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518618904450</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518619077113</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518619081723</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518630223741</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518630241904</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518630255246</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518630259358</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518741027363</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518741117589</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518741136624</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518741142625</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518794824005</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518794851890</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518794860575</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518794864752</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518813986017</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814039173</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814067134</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814070924</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814113549</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814116640</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814165971</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814181703</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814214163</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814220773</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814272480</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814347356</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814412067</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814456606</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814470469</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814489814</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814506987</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814621657</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518814645531</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518815224581</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518815234539</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518816667971</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518816671176</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518817836685</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518817840131</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518818006568</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518818013027</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518874245351</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518874261719</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518874694944</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518874698669</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518875321837</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518875333088</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518876334483</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1518876349182</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001176260</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001187050</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001314898</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001336078</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001354150</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519001364769</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519084272551</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519084290580</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519136842949</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519136861294</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519137924364</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519137940468</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519141923382</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519141957410</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519141971356</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519141981924</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142523926</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142539216</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142556285</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142571811</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142596919</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142610287</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142622245</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519142626026</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519143776733</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519143792800</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519143802469</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519143805289</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519337902869</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519337912389</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519748346482</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519748357492</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519754375033</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519754457292</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519754471222</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519754490814</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519755251359</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519755278359</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE ELIMINA</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519755292818</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1519755309074</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1528663078631</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>PRESSIONE PULSANTE INSERISCI</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1528663107305</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1528663112615</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1535119646248</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="WALLET">
+  <tag>CHIUSURA APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1535119703027</timestamp>
+</Evento>
+

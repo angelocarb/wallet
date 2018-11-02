@@ -1,0 +1,77 @@
+.root{
+    -fx-base: #9A9A9A;
+    
+    -fx-font-family: 'OpenSans';
+}
+
+.label {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 10px;
+}
+
+
+.table-view .column-header .label {
+    -fx-text-fill:black;
+    -fx-alignment: CENTER;
+    
+}
+
+.table-view {
+   /*-fx-background: #969696;*/
+    -fx-border-color: #0099FF;
+    -fx-font-weight: bold;
+   
+}
+
+.table-row-cell:selected .table-cell {
+    -fx-background-color: #2299FF;
+    -fx-border-color: #2299FF;
+    
+}
+.button {
+    -fx-background-color:#0099FF;
+    -fx-text-fill: black;
+    -fx-border-color: none;
+    -fx-background-radius: 4px;
+}
+
+.button:pressed {
+    -fx-background-color:#006064;
+    -fx-background-radius: 0;    
+}
+
+.button:hover{
+    -fx-cursor: hand;
+}
+
+.choice-box {
+  -fx-mark-color: white;
+}
+
+.choice-box .menu-item:focused {
+    -fx-background-color: #0099FF;
+   -fx-mark-color: white;
+}
+
+.choice-box .context-menu {
+    -fx-mark-color: white;
+}
+
+.contoAttuale{
+    -fx-border-color: black;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5;
+}
+
+.saldoAnnuale{
+    -fx-border-color: black;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5;
+    
+}
+
+
+
+
+
